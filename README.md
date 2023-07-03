@@ -1,0 +1,1 @@
+# SinodbDialect-for-hiberante
